@@ -2,7 +2,8 @@
 
 // Implementazione di esempio
 
-MotoreCC m(3, 4, 5, 6, 9, 10, 10);
+// En1, En2, In1, In2, In3, In4, Coppia minima
+MotoreCC m(3, 4, 5, 6, 9, 10, 38);
 
 void setup() {
   m.setup();
